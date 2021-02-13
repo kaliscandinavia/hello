@@ -1,0 +1,26 @@
+body {
+background-color: green;
+front-family:sans-serif;
+
+}
+
+h1 {
+  text-align: center;
+  color: grey;
+
+}
+p {
+  color: blue;
+  text-align: center;
+
+}
+.bilde {
+  width: 20px:auto;
+border-radius: 60%;
+border-color: grey;
+border-width: 4px;
+border-style: solid;
+display: block;
+margin-left: auto;
+margin-right: auto;
+ }
