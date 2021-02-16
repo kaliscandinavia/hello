@@ -1,2 +1,2 @@
-# hello..link to converter:
+# hello..link to page:
 https://kaliscandinavia.github.io/hello/
